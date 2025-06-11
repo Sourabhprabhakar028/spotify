@@ -1,0 +1,16 @@
+.search{
+    width: max-content;
+    display: flex;
+    align-items: center;
+    padding: 14px;
+    border-radius: 28px;
+    background-color:yellow;
+}
+.search_input{
+    font-size: 16px;
+    color: grey;
+    margin-left: 14px;
+    outline: none;
+    border: none;
+    background-color: transparent;
+}
